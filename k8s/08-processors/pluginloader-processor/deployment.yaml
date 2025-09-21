@@ -106,7 +106,7 @@ spec:
       volumes:
       - name: plugins-storage
         hostPath:
-          path: /run/desktop/mnt/host/c/Users/UserL/source/repos/design91/Libraries
+          path: /run/desktop/mnt/host/c/Users/UserL/source/repos/Design95/Libraries
           type: Directory
       - name: input-storage
         hostPath:
